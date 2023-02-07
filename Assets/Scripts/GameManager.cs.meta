@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5f492af8efd7b0942813afec16253a67
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _ambience: {instanceID: 0}
+  - _gameSettings: {fileID: 11400000, guid: 09dd2f6b5b16f1947bc66d98505d69a2, type: 2}
+  - _audioMixer: {fileID: 24100000, guid: 45ff23bdfbe4c9d4795e9d7a00b67203, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
